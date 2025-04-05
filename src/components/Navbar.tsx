@@ -50,9 +50,6 @@ export const Navbar = () => {
           <Button type="submit" size="sm">
             Search
           </Button>
-          <Button variant="default" size="sm">
-            Login/Register
-          </Button>
         </form>
       </div>
 
